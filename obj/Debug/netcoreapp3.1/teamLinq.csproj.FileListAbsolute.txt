@@ -1,0 +1,12 @@
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/teamLinq/bin/Debug/netcoreapp3.1/teamLinq.deps.json
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/teamLinq/bin/Debug/netcoreapp3.1/teamLinq.runtimeconfig.json
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/teamLinq/bin/Debug/netcoreapp3.1/teamLinq.runtimeconfig.dev.json
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/teamLinq/bin/Debug/netcoreapp3.1/teamLinq.dll
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/teamLinq/bin/Debug/netcoreapp3.1/teamLinq.pdb
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/teamLinq/obj/Debug/netcoreapp3.1/teamLinq.csprojAssemblyReference.cache
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/teamLinq/obj/Debug/netcoreapp3.1/teamLinq.AssemblyInfoInputs.cache
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/teamLinq/obj/Debug/netcoreapp3.1/teamLinq.AssemblyInfo.cs
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/teamLinq/obj/Debug/netcoreapp3.1/teamLinq.csproj.CoreCompileInputs.cache
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/teamLinq/obj/Debug/netcoreapp3.1/teamLinq.dll
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/teamLinq/obj/Debug/netcoreapp3.1/teamLinq.pdb
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/teamLinq/obj/Debug/netcoreapp3.1/teamLinq.genruntimeconfig.cache

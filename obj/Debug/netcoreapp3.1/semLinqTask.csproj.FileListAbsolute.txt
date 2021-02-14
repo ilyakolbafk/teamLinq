@@ -1,0 +1,12 @@
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/semLinqTask/bin/Debug/netcoreapp3.1/semLinqTask.deps.json
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/semLinqTask/bin/Debug/netcoreapp3.1/semLinqTask.runtimeconfig.json
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/semLinqTask/bin/Debug/netcoreapp3.1/semLinqTask.runtimeconfig.dev.json
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/semLinqTask/bin/Debug/netcoreapp3.1/semLinqTask.dll
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/semLinqTask/bin/Debug/netcoreapp3.1/semLinqTask.pdb
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/semLinqTask/obj/Debug/netcoreapp3.1/semLinqTask.csprojAssemblyReference.cache
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/semLinqTask/obj/Debug/netcoreapp3.1/semLinqTask.AssemblyInfoInputs.cache
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/semLinqTask/obj/Debug/netcoreapp3.1/semLinqTask.AssemblyInfo.cs
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/semLinqTask/obj/Debug/netcoreapp3.1/semLinqTask.csproj.CoreCompileInputs.cache
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/semLinqTask/obj/Debug/netcoreapp3.1/semLinqTask.dll
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/semLinqTask/obj/Debug/netcoreapp3.1/semLinqTask.pdb
+/Users/ilyakolb/Documents/DZ/Proga/DZ/30.01.21/semLinqTask/obj/Debug/netcoreapp3.1/semLinqTask.genruntimeconfig.cache
