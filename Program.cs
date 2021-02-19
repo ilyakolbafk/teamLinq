@@ -147,14 +147,12 @@ namespace teamLinq
             }
             else
             {
-                foreach (var year in from g in (from e in WeatherEvents where e.Type == WeatherEventType.Snow select e)
-                        .ToLookup(e => e.StartTime.Year)
+                foreach (var year in from g in
+                        (from e in WeatherEvents where e.Type == WeatherEventType.Snow select e).ToLookup(e =>
+                            e.StartTime.Year)
                     select new
                     {
-                        Name = g.Key, Event =
-                            (from e in g
-                                orderby e.EndTime - e.StartTime descending
-                                select e).First()
+                        Name = g.Key, Event = (from e in g orderby e.EndTime - e.StartTime descending select e).First()
                     })
                     Console.WriteLine(
                         $"Year {year.Name}: from {year.Event.StartTime} to {year.Event.EndTime} in {year.Event.City}");
